@@ -2,7 +2,7 @@
 ### Year 10 Student | Melbourne Top Private School | Monash University Internship Applicant
 
 ## 👤 About Me
-I am a Year 10 student at a top private school in Melbourne, passionate about **STEM, computational biology, and machine learning for biomedicine**. I have built two end-to-end ML projects focused on protein function classification and pediatric brain cancer genomic subtype prediction—aligned with Prof. Song Jiang Ning’s research focus at Monash University (AI for Biomedicine, Cancer Genomics, Bioinformatics).
+I am a Year 10 student at a top private school in Melbourne, passionate about **STEM, computational biology, and machine learning for biomedicine**. I have built two end-to-end ML projects focused on protein function classification and pediatric brain cancer genomic subtype prediction.
 
 This portfolio showcases my skills in Python, data preprocessing, model building, and scientific analysis as a young STEM learner.
 
@@ -59,5 +59,5 @@ This portfolio showcases my skills in Python, data preprocessing, model building
 
 ## 📩 Contact
 - Location: Melbourne, Australia
+- Email: 644146personal@gmai.com
 - Education: Year 10, Top Private School
-- Purpose: Monash University Internship Application (Prof. Song Jiang Ning)
