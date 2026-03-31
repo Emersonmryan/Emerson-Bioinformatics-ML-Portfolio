@@ -36,7 +36,7 @@ This portfolio showcases my skills in Python, data preprocessing, model building
 - **Dataset**: [Kaggle - Brain Cancer Gene Expression (CuMiDa)](https://www.kaggle.com/datasets/brunogrisci/brain-cancer-gene-expression-cumida)
 - **Data Scope**: 130 samples, 54,676 gene features (curated microarray dataset)
 - **Classes**: Normal, Ependymoma, Glioblastoma, Pilocytic Astrocytoma, Medulloblastoma
-- **Pipeline**: Standardization → PCA dimensionality reduction → model tuning & comparison
+- **Pipeline**: Standardisation → PCA dimensionality reduction → model tuning & comparison
 - **Models Compared**: Logistic Regression, Decision Tree, Random Forest, XGBoost
 - **Best Model**: Logistic Regression (Accuracy = 0.879, Weighted F1 = 0.880, Mean AUC = 0.982)
 - **Tools**: Python, Scikit-learn, XGBoost, Pandas, Plotly, PCA, t-SNE
